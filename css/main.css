@@ -1,0 +1,16 @@
+.stars {
+    color: #9E9E9E;
+    font-size: 1.5em;
+    position: relative;
+    display: inline-block;
+    user-select: none;
+}
+
+.stars .cover {
+    color: #FF5722;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    display: inline-block;
+}
